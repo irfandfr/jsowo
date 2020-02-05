@@ -1,9 +1,158 @@
-{
-  "posts": [
-    { "id": 1, "title": "json-server", "author": "typicode" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 }
-  ],
-  "profile": { "name": "typicode" }
-}
+[
+  {
+    "_id": "5e3a7cd4785979cffa28e172",
+    "tanggal": "03-01-20",
+    "guid": "73394eb5-2064-46f9-aea7-64c1d597b733",
+    "nama": "Pace",
+    "email": "trujillobrowning@renovize.com",
+    "number": "(883) 588-3944",
+    "tipe": "Kerusakan",
+    "priority": "Rendah",
+    "status": "On Progress",
+    "deskripsi": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent commodo aliquet lacus, nec semper erat suscipit et. Mauris dictum ultricies leo, sed vehicula massa mattis."
+  },
+  {
+    "_id": "5e3a7cd4ff59fcc40c321bd4",
+    "tanggal": "01-01-20",
+    "guid": "d12c9818-b717-4231-b001-2e7198ea3be3",
+    "nama": "Hines",
+    "email": "normasweeney@delphide.com",
+    "number": "(988) 445-3399",
+    "tipe": "Kerusakan",
+    "priority": "Rendah",
+    "status": "On Progress",
+    "deskripsi": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent commodo aliquet lacus, nec semper erat suscipit et. Mauris dictum ultricies leo, sed vehicula massa mattis."
+  },
+  {
+    "_id": "5e3a7cd4e3fac2c1e0cfcd4a",
+    "tanggal": "25-01-20",
+    "guid": "fbf19d9d-5496-4b2a-8000-7b17b9a48c7f",
+    "nama": "Bertie",
+    "email": "guerraterrell@biflex.com",
+    "number": "(901) 510-3308",
+    "tipe": "Kerusakan",
+    "priority": "Rendah",
+    "status": "On Progress",
+    "deskripsi": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent commodo aliquet lacus, nec semper erat suscipit et. Mauris dictum ultricies leo, sed vehicula massa mattis."
+  },
+  {
+    "_id": "5e3a7cd477ffa7cd37f2eeb6",
+    "tanggal": "10-01-20",
+    "guid": "831f2fb5-9a92-445b-9abb-1b660b25bddf",
+    "nama": "Marshall",
+    "email": "foleynorton@andryx.com",
+    "number": "(802) 570-2042",
+    "tipe": "Kerusakan",
+    "priority": "Rendah",
+    "status": "On Progress",
+    "deskripsi": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent commodo aliquet lacus, nec semper erat suscipit et. Mauris dictum ultricies leo, sed vehicula massa mattis."
+  },
+  {
+    "_id": "5e3a7cd40241b8e236e9f2d2",
+    "tanggal": "05-02-20",
+    "guid": "0263ce6b-d9d7-4a0e-8741-455e1cbebd49",
+    "nama": "Lacy",
+    "email": "karlaodom@diginetic.com",
+    "number": "(906) 589-3321",
+    "tipe": "Kerusakan",
+    "priority": "Rendah",
+    "status": "On Progress",
+    "deskripsi": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent commodo aliquet lacus, nec semper erat suscipit et. Mauris dictum ultricies leo, sed vehicula massa mattis."
+  },
+  {
+    "_id": "5e3a7cd4fc0ae48ad4e5cacf",
+    "tanggal": "29-01-20",
+    "guid": "31046d30-bddb-4c23-a345-7e80ba38961a",
+    "nama": "Johns",
+    "email": "fisherwooten@comvoy.com",
+    "number": "(849) 506-2584",
+    "tipe": "Kerusakan",
+    "priority": "Rendah",
+    "status": "On Progress",
+    "deskripsi": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent commodo aliquet lacus, nec semper erat suscipit et. Mauris dictum ultricies leo, sed vehicula massa mattis."
+  },
+  {
+    "_id": "5e3a7cd449507ac92fb803e6",
+    "tanggal": "05-01-20",
+    "guid": "836df4df-b426-4512-bce6-b53b0646e122",
+    "nama": "Gwen",
+    "email": "belindaray@terrago.com",
+    "number": "(971) 456-2780",
+    "tipe": "Kerusakan",
+    "priority": "Rendah",
+    "status": "On Progress",
+    "deskripsi": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent commodo aliquet lacus, nec semper erat suscipit et. Mauris dictum ultricies leo, sed vehicula massa mattis."
+  },
+  {
+    "_id": "5e3a7cd403fdc60fd10104e2",
+    "tanggal": "02-02-20",
+    "guid": "71924245-61f0-4e47-b290-320d1e6925af",
+    "nama": "Clarissa",
+    "email": "hollieross@escenta.com",
+    "number": "(961) 459-2781",
+    "tipe": "Kerusakan",
+    "priority": "Rendah",
+    "status": "On Progress",
+    "deskripsi": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent commodo aliquet lacus, nec semper erat suscipit et. Mauris dictum ultricies leo, sed vehicula massa mattis."
+  },
+  {
+    "_id": "5e3a7cd4cd999582fa594659",
+    "tanggal": "03-01-20",
+    "guid": "42cfee3e-0db7-480e-b51e-72d64146daf0",
+    "nama": "Leticia",
+    "email": "coloneaton@tribalog.com",
+    "number": "(991) 459-2778",
+    "tipe": "Kerusakan",
+    "priority": "Rendah",
+    "status": "On Progress",
+    "deskripsi": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent commodo aliquet lacus, nec semper erat suscipit et. Mauris dictum ultricies leo, sed vehicula massa mattis."
+  },
+  {
+    "_id": "5e3a7cd46a467b6874b17ad1",
+    "tanggal": "30-01-20",
+    "guid": "94d5ecd3-ead9-4ce5-99cc-c91f51d6ccca",
+    "nama": "Perry",
+    "email": "janisburt@pharmacon.com",
+    "number": "(827) 586-3203",
+    "tipe": "Kerusakan",
+    "priority": "Rendah",
+    "status": "On Progress",
+    "deskripsi": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent commodo aliquet lacus, nec semper erat suscipit et. Mauris dictum ultricies leo, sed vehicula massa mattis."
+  },
+  {
+    "_id": "5e3a7cd4c351189f6a8611dd",
+    "tanggal": "02-02-20",
+    "guid": "77344062-37ec-4662-9693-3ac402de005c",
+    "nama": "Gale",
+    "email": "angelinamoon@dancerity.com",
+    "number": "(941) 491-2425",
+    "tipe": "Kerusakan",
+    "priority": "Rendah",
+    "status": "On Progress",
+    "deskripsi": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent commodo aliquet lacus, nec semper erat suscipit et. Mauris dictum ultricies leo, sed vehicula massa mattis."
+  },
+  {
+    "_id": "5e3a7cd4ee0d1fd9fa678769",
+    "tanggal": "11-01-20",
+    "guid": "6c033b02-574c-4ae5-8f48-758a5a1fbfed",
+    "nama": "Luisa",
+    "email": "kentbryan@signity.com",
+    "number": "(915) 518-2353",
+    "tipe": "Kerusakan",
+    "priority": "Rendah",
+    "status": "On Progress",
+    "deskripsi": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent commodo aliquet lacus, nec semper erat suscipit et. Mauris dictum ultricies leo, sed vehicula massa mattis."
+  },
+  {
+    "_id": "5e3a7cd480897c7f6264e035",
+    "tanggal": "02-01-20",
+    "guid": "29446799-d2c2-4718-8f0d-1d5db1cd03e8",
+    "nama": "Hughes",
+    "email": "gatesjacobson@conjurica.com",
+    "number": "(969) 449-2087",
+    "tipe": "Kerusakan",
+    "priority": "Rendah",
+    "status": "On Progress",
+    "deskripsi": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent commodo aliquet lacus, nec semper erat suscipit et. Mauris dictum ultricies leo, sed vehicula massa mattis."
+  }
+]
